@@ -1,11 +1,11 @@
 {
   "name": "nodeassign",
   "version": "1.0.0",
-  "description": "",
+  "description": "homework",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "request": "2.69.0"
   },
-  "author": "",
+  "author": "Heidi Wallis",
   "license": "ISC"
 }
