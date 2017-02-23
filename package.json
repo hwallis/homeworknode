@@ -4,8 +4,8 @@
   "description": "homework",
   "main": "index.js",
   "dependencies": {
-    "request": "2.69.0"
-  },
-  "author": "Heidi Wallis",
+    "request": "~2.79.0"
+  }, 
+  "author": "Heidi Wallis", 
   "license": "ISC"
 }
